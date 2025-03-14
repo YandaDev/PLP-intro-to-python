@@ -8,4 +8,4 @@
 - Example: If a user inputs `10`, `5`, and `+`, your program should display `10 + 5 = 15`.
 
 #### Objective
-Practice creating Python programs to perform arithmetic and string, experimenting with variables and exploring data types
+Practice creating Python programs to perform arithmetic and string, experimenting with variables and exploring data types.
