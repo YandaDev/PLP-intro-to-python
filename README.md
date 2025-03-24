@@ -1,5 +1,6 @@
-# week1-intro-to-python-assignment
+# Intro-to-python-assignments
 
+## Week1
 ### Instructions:
 
 #### Basic Calculator Program
