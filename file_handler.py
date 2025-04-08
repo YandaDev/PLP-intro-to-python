@@ -31,9 +31,10 @@ def file_challenge():
 # Practice opening files with error handling
 def error_lab():
     print("\n--- Error Handling Lab ---")
-    print("Try opening files. We'll help if there are problems.")
+    print("Please specify which file you'd like to read.")
     
     while True:
+        
         file_name = input("\nEnter a file name to open (or type 'quit' to exit): ")
         
         if file_name.lower() == 'quit':
@@ -56,9 +57,9 @@ def error_lab():
 
 # Main program
 print("=== Python File Handling Practice ===")
-print("Let's learn to work with files safely!\n")
+print("File handling and error management basics\n")
 
 file_challenge()  # Do the first part
 error_lab()      # Then do the second part
 
-print("\nGreat job! You've practiced file handling and error handling.")
+print("\nFile handling exercise completed successfully.")
